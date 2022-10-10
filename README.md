@@ -4,6 +4,10 @@ I'm John Tsevdos, a software engineer from Athens, Greece (🇬🇷), and huge f
 
 If you want to learn more about me, feel free to visit my personal site **[tsevdos.me](https://tsevdos.me/)**!
 
+## 📊 My GitHub stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tsevdos)](https://github.com/tsevdos/github-readme-stats&show_icons=true&theme=radical)
+
 ## ⚡ (Fun?) Facts:
 
 - 💼 I'm working as a lead front-end developer
