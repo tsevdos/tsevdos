@@ -1,26 +1,47 @@
-# 👋 Hello there,
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is John Tsevdos
 
-I'm John Tsevdos, a software engineer from Athens, Greece (🇬🇷), and huge fan of full-stack [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (mostly [TypeScript](https://www.typescriptlang.org/) nowadays), [React](https://reactjs.org/) (and its ecosystem), [Jamstack](https://jamstack.org/) and [Serverless](https://en.wikipedia.org/wiki/Serverless_computing). I'm a lead member of the [React 2 React Athens MeetUp](https://www.meetup.com/react-to-react-athens-meetup/) and I'm sharing my JavaScript and React knowledge at [Code.Hub](https://www.codehub.gr/codelearn/our-instructors/) and [devotees.io](https://devotees.io/)!
+## a software engineer from Athens, Greece (🇬🇷)
 
-If you want to learn more about me, feel free to visit my personal site **[tsevdos.me](https://tsevdos.me/)**!
+I'm huge fan of full-stack [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), mostly [TypeScript](https://www.typescriptlang.org/) nowadays, [React](https://reactjs.org/) and its ecosystem, [Jamstack](https://jamstack.org/) and [Serverless](https://en.wikipedia.org/wiki/Serverless_computing). I'm a lead member of the [React 2 React Athens MeetUp](https://www.meetup.com/react-to-react-athens-meetup/) and I share my JavaScript and React knowledge at [Code.Hub](https://www.codehub.gr/codelearn/our-instructors/) and [devotees.io](https://devotees.io/)! Feel free to learn more about me on my personal site **[tsevdos.me](https://tsevdos.me/)**!
 
-## 📊 My GitHub stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tsevdos)](https://github.com/tsevdos/github-readme-stats&show_icons=true&theme=radical)
+<p align="left">
+<a href="https://www.github.com/tsevdos" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tsevdos?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/tsevdos" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/tsevdos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a></p>
 
 ## ⚡ (Fun?) Facts:
 
-- 💼 I'm working as a lead front-end developer
-- 💪🏻 I have more than 15 years of experience in web technologies!
-- 😍 I love working in TypeScript, JavaScript and React/Next.js
-- 🔧 I've used almost all of React's state management tools, such as Redux, MobX, Recoil, zustand and many more...
-- 🔨 I really enjoy working with React's extensive ecosystem, such as React Router, React Query, Emotion, Styled components, Immer, recompose, Redux-Saga, reactstrap, material UI, Ant Design and all the other usual suspects...
-- 💕 I like functional programming (and sometimes hate it at the same time!)
-- 🤫 I have hands-on experience in many other JavaScript frameworks and libraries such as Vue, Angular, svelte, backbone.js, jQuery, underscore and lodash, axios, moment.js, and many more
-- 🤔 On the backend stack, I like working with node.js, Next.js, express, and all the other "express-like" frameworks
-- 😬 I have decent knowledge in PHP, Ruby (Rails), and on various SQL and NoSQL databases such as MongoDB, PostgreSQL, MySQL and Fauna DB
+- 🌍 Based in Athens, Greece (🇬🇷)
+- 🖥️ Portfolio at **[tsevdos.me](http://tsevdos.me)**
+- ✉️ Contact at [tsevdosjohn@gmail.com](mailto:tsevdosjohn@gmail.com)
+- 💼 Currently working at [Orfium](http://orfium.com)
+- 🤝 Open to collaborating on TypeScript and React projects
+- 💪🏻 15+ years of experience in web technologies
+- 😍 Loves working with TypeScript, JavaScript, and React/Next.js
+- 🔧 Familiar with various React state management tools, such as redux, mobX, recoil, zustand and many more...
+- 🔨 Enjoys working with React's ecosystem, such as react router, react query, emotion, styled components, storybook, redux-saga, reactstrap, material UI, ant design and all the other usual suspects...
+- 💕 Loves / hates functional programming
+- 🤫 Hands-on experience on many other JavaScript frameworks and libraries such as Vue.js, Angular, svelte, backbone.js, jQuery, underscore and lodash, axios, moment.js, and many more
+- 👨‍💼 On the backend stack, I like working with node.js, Next.js, express, and all the other "express-like" frameworks
+- 😬 Decent knowledge on PHP, Ruby (Rails), SQL and NoSQL databases (such as MongoDB, PostgreSQL, MySQL and SQLite)
 - ⚡ I'm trying to do as much TDD (Test-Driven Development) as possible
-- 🌱 I'm trying to learn Rust! It rocks big time
-- 🐧 Linux is my OS of choice for the last 15 years (maybe more...)
-- 🌳 I often wonder how developers used to work before git. I used to be one of them...
+- 🧠 Learning Rust
+- 🐧 Linux user for 15+ years
 - 🏎 Agile methodologies really work, but only if you use them correctly!
+
+## 👉 Please follow me!
+
+<p align="left"> <a href="https://www.github.com/tsevdos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tsevdosjohn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tsevdos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## 💻 My GitHub Stats
+
+<a href="http://www.github.com/tsevdos"><img src="https://github-readme-stats.vercel.app/api?username=tsevdos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tsevdos's GitHub stats" /></a>
+
+<a href="http://www.github.com/tsevdos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tsevdos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!-- <a href="https://github.com/tsevdos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsevdos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+## 👌 Working on
+
+<a href="https://github.com/tsevdos/tsevdos/npm-packages" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tsevdos&repo=npm-packages&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
