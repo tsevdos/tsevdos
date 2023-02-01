@@ -14,18 +14,15 @@ src="https://img.shields.io/twitter/follow/tsevdos?logo=twitter&style=for-the-ba
 
 - 🌍 Based in Athens, Greece (🇬🇷)
 - 🖥️ Portfolio at **[tsevdos.me](http://tsevdos.me)**
-- ✉️ Contact at [tsevdosjohn@gmail.com](mailto:tsevdosjohn@gmail.com)
 - 💼 Currently working at [Orfium](http://orfium.com)
-- 🤝 Open to collaborating on TypeScript and React projects
 - 💪🏻 15+ years of experience in web technologies
 - 😍 Loves working with TypeScript, JavaScript, and React/Next.js
-- 🔧 Familiar with various React state management tools, such as redux, mobX, recoil, zustand and many more...
-- 🔨 Enjoys working with React's ecosystem, such as react router, react query, emotion, styled components, storybook, redux-saga, reactstrap, material UI, ant design and all the other usual suspects...
-- 💕 Loves / hates functional programming
-- 🤫 Hands-on experience on many other JavaScript frameworks and libraries such as Vue.js, Angular, svelte, backbone.js, jQuery, underscore and lodash, axios, moment.js, and many more
+- 👌 Hands-on experience on many other JavaScript frameworks and libraries such as vue.js, angular, svelte, backbone.js, jQuery, underscore and lodash, axios, moment.js, and many more
 - 👨‍💼 On the backend stack, I like working with node.js, Next.js, express, and all the other "express-like" frameworks
-- 😬 Decent knowledge on PHP, Ruby (Rails), SQL and NoSQL databases (such as MongoDB, PostgreSQL, MySQL and SQLite)
-- ⚡ I'm trying to do as much TDD (Test-Driven Development) as possible
+- 😁 Decent knowledge on PHP, Ruby (Rails), SQL and NoSQL databases (such as MongoDB, PostgreSQL, MySQL and SQLite)
+- 💕 OOP and FP
+- 🤝 Open to collaborating on TypeScript and React projects
+- ✅ Trying to do as much TDD (Test-Driven Development) as possible
 - 🧠 Learning Rust
 - 🐧 Linux user for 15+ years
 - 🏎 Agile methodologies really work, but only if you use them correctly!
