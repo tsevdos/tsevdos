@@ -15,12 +15,12 @@ src="https://img.shields.io/github/followers/tsevdos?logo=github&style=for-the-b
 - 👨‍💻 Portfolio ➡ **[tsevdos.me](http://tsevdos.me)**
 - 📄 My **[CV](https://public.tsevdos.me/john_tsevdos_cv.pdf)**
 - 💼 Currently working at [Orfium](http://orfium.com)
-- 💪🏻 18+ years of experience in web technologies
+- 💪🏻 19+ years of experience in web technologies
 - 😍 Loves working with TypeScript, JavaScript, and React / Next.js
 - 👌 Hands-on experience on many other JavaScript frameworks and libraries such as vue.js, angular, svelte, backbone.js, jQuery, underscore and lodash, axios, moment.js, and many more
 - 👨‍💼 On the backend stack, I like working with node.js, Next.js, express, and all the other "express-like" frameworks
 - 😁 Decent knowledge on PHP, Ruby (Rails), SQL and NoSQL databases (such as MongoDB, PostgreSQL, MySQL and SQLite)
-- 📝 Check out my 2 tech blogs, **[Phrappe.com](https://phrappe.com)** (english) and **[Tsevdos.com](https://tsevdos.com)** (greek)
+- 📝 Check out my 2 tech blogs, **[Tsevdos.me](https://tsevdos.me/blog/)** (english) and **[Tsevdos.com](https://tsevdos.com)** (greek)
 - 💕 I love open source, OOP and FP
 - 🤝 Open to collaborating on TypeScript and React projects
 - ✅ Trying to do as much TDD (Test-Driven Development) as possible
